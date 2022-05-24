@@ -1,0 +1,12 @@
+{
+    "require": {
+        "symfony/validator": "^6.0",
+        "symfony/routing": "^6.0",
+        "nette/database": "^3.1"  
+    },
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
